@@ -4,7 +4,7 @@ const sidebar = document.createElement("div");
 sidebar.className = "sidebar";
 
 sidebar.innerHTML = `
-  <img src= "IMG-20250312-WA0555.jpg" alt="avatar" />
+  <img src= "https://avatars.githubusercontent.com/u/119554829?v=4&size=64" alt="avatar" />
   <h2>Adesh Pandey</h2>
   <div class="tag">Web developer</div>
   <div class="info">
